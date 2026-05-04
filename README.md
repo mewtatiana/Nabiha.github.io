@@ -17,9 +17,3 @@
 ## Projects
 ### Fureverhaven 
 Made this to shelter abandoned and lost souls as our third year project.
-
-
-
-
-
--
